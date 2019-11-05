@@ -1,6 +1,6 @@
 ## About Agilax
 
-Agilax is a web application for Local Governemnts to register user and set roles for Agilax ICBMA.
+Agilax is a web application for Local Governments to register user and set roles for Agilax ICBMA.
 
 ## Setup Agilax
 
